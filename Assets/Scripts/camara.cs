@@ -13,7 +13,5 @@ public class camara : MonoBehaviour
         Vector3 position= transform.position;
         position.x = CR.transform.position.x;
         transform.position = position;
-        position.y = CR.transform.position.y;
-        transform.position = position;
     }
 }
