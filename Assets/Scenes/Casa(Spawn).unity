@@ -551,9 +551,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 462008779}
+      - m_Target: {fileID: 735290305}
         m_TargetAssemblyTypeName: MenuPausa, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: Salir
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -618,7 +618,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &462008780
 RectTransform:
   m_ObjectHideFlags: 0
